@@ -29,9 +29,10 @@ Jumper Wires – For necessary connections.
 ## 📡 Circuit Diagram
 
 
+![resized_home_automation](https://github.com/user-attachments/assets/aff78fff-792d-474a-9300-0490a4344fd4)
 
-![Circuit Diagram](![WhatsApp Image 2024-09-11 at 23 05 36_5e9537d1](https://github.com/user-attachments/assets/3e4e4d0c-b5f0-46c4-8bff-9fdfcab35b68)
-)
+
+
 
 
 ## 🚀 Getting Started
