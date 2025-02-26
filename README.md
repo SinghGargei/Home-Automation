@@ -1,25 +1,38 @@
-#🏡 Home Automation with ESP8266 & Blynk
-<img src="your-image-file.png" alt="Home Automation Demo" width="700"/>
+# 🏡 Home Automation with ESP8266 & Blynk
+
 🚀 This Home Automation System allows you to control appliances like a Fan and LED remotely using the Blynk App and an ESP8266 NodeMCU.
 
 ## 📌 Features
+
 ✔ Wi-Fi Controlled: Operate appliances over the internet.
+
 ✔ Blynk App Integration: Mobile-based control.
+
 ✔ Fan & LED Control: Turn ON/OFF appliances remotely.
+
 ✔ Real-time Serial Monitoring: Debugging made easy.
+
 ✔ Scalable System: Add more devices effortlessly.
 
 ## 🛠️ Components Used
+
 ESP8266 NodeMCU – Wi-Fi microcontroller for control.
+
 LED – Indicator light.
+
 Fan (or any appliance) – Controllable via relay.
+
 Relay Module – Required for high-power appliances.
+
 Jumper Wires – For necessary connections.
+
 ## 📡 Circuit Diagram
 
 
 
 ![Circuit Diagram](circuit-diagram.png)
+
+
 ## 🚀 Getting Started
 ### 🔹 1️⃣ Install Required Libraries
 Ensure you have the following libraries installed in Arduino IDE:
